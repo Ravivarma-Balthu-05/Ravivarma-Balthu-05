@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on Web Devolpment. -->
 - 🌱 I’m currently learning Web Devolpment 
 - 👀 I’m interested in learning new things !
-- 📫 How to reach me: [Ravivarma](https://ravivarma.vercel.app)
+- 📫 How to reach me: [Ravivarma](https://ravivarma.netlify.app)
 - 😄 Pronouns: He/His.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
